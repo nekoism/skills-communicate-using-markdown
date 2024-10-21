@@ -13,9 +13,9 @@ Initilization empty git repo
 int main(){
   System.out.println("Hello World");
 }
-
+```
 - [] Learn Skills communication
 - [x] learn todo list with markdown
-```
+
 - [] => todo list syntax
 ```
