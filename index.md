@@ -14,8 +14,8 @@ int main(){
   System.out.println("Hello World");
 }
 ```
-- [] Learn Skills communication
+- [ ] Learn Skills communication
 - [x] learn todo list with markdown
 
-- [] => todo list syntax
+- [ ] => todo list syntax
 ```
